@@ -1,0 +1,1 @@
+A simple beginner level project which demonstrates fundamental concepts of Numpy. 
